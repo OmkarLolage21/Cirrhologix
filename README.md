@@ -48,8 +48,6 @@ install.packages("shiny")
 4. **Access the Deployed Application**:
    The Cirrhologix application is also deployed on shinyapps.io. You can access it at the following link:
 
-   [Cirrhologix on ShinyApps.io][(https://omkar-datascience-projects.shinyapps.io/Liver-Cirrhosis-Predictor/)])
-
 ## Dataset
 The predictive model used in Cirrhologix is trained on a liver cirrhosis dataset sourced from Kaggle. This dataset includes a variety of clinical features that are relevant for cirrhosis prediction.
 
