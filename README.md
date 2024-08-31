@@ -68,10 +68,6 @@ Further improvements are planned for the Cirrhologix project, including:
 - Enhancement of the user interface with more advanced visualization options.
 - Incorporation of feedback from healthcare professionals to optimize usability.
 
-## Contributing
-
-Contributions to Cirrhologix are welcome! Please fork the repository and submit pull requests. Before contributing, kindly read our [Contributing Guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
